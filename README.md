@@ -7,7 +7,7 @@ Suggested and required readings, links, and more, for systematic review expert s
 
 ## Other Links
 - [PubMed Tools](https://github.com/carrieprice78/mla-search-course-2022/blob/main/pubmed-tools.md)
-- [Question Development Frameworks]()  
+- [Question Development Frameworks](https://github.com/carrieprice78/mla-search-course-2022/blob/main/question-development-frameworks.md)  
 - [Search Filters](https://github.com/carrieprice78/mla-search-course-2022/blob/main/search-filters.md)
 - [Search Tools](https://github.com/carrieprice78/mla-search-course-2022/blob/main/search-tools.md)
 
