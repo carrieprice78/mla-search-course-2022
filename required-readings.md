@@ -2,7 +2,7 @@
 
 - Lefebvre, C. et al. (2019). Chapter 4: Searching for and selecting studies. In Higgins, J. P., Thomas, J., Chandler, J., Cumpston, M., Li, T., Page, M. J., & Welch, V. A. (Eds.). *Cochrane handbook for systematic reviews of interventions.* John Wiley & Sons. https://training.cochrane.org/handbook/current/chapter-04 
 
-- Lefebvre, C. et al. (2019). 4.S1 Technical supplement to chapter 4: Searching for and selecting studies. In Higgins, J. P., Thomas, J., Chandler, J., Cumpston, M., Li, T., Page, M. J., & Welch, V. A. (Eds.). *Cochrane handbook for systematic reviews of interventions.* John Wiley & Sons. https://training.cochrane.org/handbook/current/chapter-04-technical-supplement-searching-and-selecting-studies 
+- Lefebvre, C. et al. (2019). 4.S1 Technical supplement to Cchapter 4: Searching for and selecting studies. In Higgins, J. P., Thomas, J., Chandler, J., Cumpston, M., Li, T., Page, M. J., & Welch, V. A. (Eds.). *Cochrane handbook for systematic reviews of interventions.* John Wiley & Sons. https://training.cochrane.org/handbook/current/chapter-04-technical-supplement-searching-and-selecting-studies 
 
 - McGowan, J., Sampson, M., Salzwedel, D. M., Cogo, E., Foerster, V., & Lefebvre, C. (2016). PRESS peer review of electronic search strategies: 2015 Guideline Statement. *Journal of Clinical Epidemiology, 75*, 40–46. https://doi.org/10.1016/j.jclinepi.2016.01.021 
 
