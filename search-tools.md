@@ -1,6 +1,6 @@
 
 # Search Tools
-
+- [CitationChaser](https://estech.shinyapps.io/citationchaser/)
 - [SR Accelerator](https://sr-accelerator.com/#/)
 
 # Terminology Tools
