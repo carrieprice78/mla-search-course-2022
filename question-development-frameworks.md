@@ -2,21 +2,20 @@
 
 ## CoCoPop
 * Condition, Context, Population
-* Aromataris, E., & Munn, Z. (2017). Joanna Briggs Institute reviewer's manual. The Joanna Briggs Institute. 
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
 
 
 ## ECLIPSE
 * Expectation, Client Group, Location, Impact, Professionals, Service
 * Wildridge, V., & Bell, L. (2002). How CLIP became ECLIPSE: a mnemonic to assist in searching for health policy/management information. Health Information & Libraries Journal, 19(2), 113-115. https://doi.org/10.1046/j.1471-1842.2002.00378.x
 
-
 ## PCC
 * Population, Concept, Context
-* Aromataris, E., & Munn, Z. (2017). Joanna Briggs Institute reviewer's manual. The Joanna Briggs Institute. 
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
 
 ## PEO
 * Population, Exposure of Interest, Outcome or Response
-* Aromataris, E., & Munn, Z. (2017). Joanna Briggs Institute reviewer's manual.
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
                
 ## PICO
 * Population or Problem, Intervention or Exposure, Comparison or Control, Outcome
@@ -32,15 +31,15 @@
 
 ## PIRD
 * Population, Index Test, Reference Test, Diagnosis of Interest
-* Aromataris, E., & Munn, Z. (2017). Joanna Briggs Institute reviewer's manual. The Joanna Briggs Institute. Available from https://wiki.jbi.global/display/MANUAL/9.2.1Title
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
       
 ## PICo
 * Population, Interest, Context
-* Aromataris, E., & Munn, Z. (2017). Joanna Briggs Institute reviewer's manual. The Joanna Briggs Institute. Available from https://reviewersmanual.joannabriggs.org/
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
 
 ## SPIDER
 * Sample, Phenomenon of Interest, Design, Evaluation, Research Type
-* Cooke, A., Smith, D., & Booth, A. (2012). Beyond PICO: the SPIDER tool for qualitative evidence synthesis. Qualitative Health Research, 22(10), 1435–1443. https://doi.org/10.1177/1049732312452938
+* Cooke, A., Smith, D., & Booth, A. (2012). Beyond PICO: the SPIDER tool for qualitative evidence synthesis. *Qualitative Health Research, 22*(10), 1435–1443. https://doi.org/10.1177/1049732312452938
 
 ## SPICE
 * Setting, Perspective, Intervention, Comparison, Evaluation
