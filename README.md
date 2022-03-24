@@ -1,5 +1,5 @@
 # mla-search-course-2022
-Suggested and required reading for systematic review expert searching.
+Suggested and required readings, links, and more, for systematic review expert searching.
 
 ## Readings
 - [Required Readings](https://github.com/carrieprice78/mla-search-course-2022/blob/main/required-readings.md)
