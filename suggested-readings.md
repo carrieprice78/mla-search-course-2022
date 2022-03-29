@@ -27,7 +27,7 @@
 
 
 ## Guidance
-Glanville, J. Isojarvi, J. et al. (Last updated 2020 March 7). Summarized research in information retrieval for HTA. https://sites.google.com/york.ac.uk/sureinfo/home?authuser=0
+- Glanville, J. Isojarvi, J. et al. (Last updated 2020 March 7). Summarized research in information retrieval for HTA. https://sites.google.com/york.ac.uk/sureinfo/home?authuser=0
 
 
 
