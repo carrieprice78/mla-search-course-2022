@@ -1,5 +1,6 @@
 # Suggested Readings
 
+
 ## Recall and Precision
 
 - Buckland, M., & Gey, F. (1994). The Relationship between Recall and Precision. *Journal of the American Society for Information Science, 45*(1), 12–19. https://asistdl.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-4571(199401)45:1%3C12::AID-ASI2%3E3.0.CO;2-L 
@@ -25,6 +26,8 @@
 - Sampson, M., Tetzlaff, J., & Urquhart, C. (2011). Precision of healthcare systematic review searches in a cross-sectional sample. *Research Synthesis Methods, 2*(2), 119–125. https://doi.org/10.1002/jrsm.42
 
 
+## Guidance
+Glanville, J. Isojarvi, J. et al. (Last updated 2020 March 7). Summarized research in information retrieval for HTA. https://sites.google.com/york.ac.uk/sureinfo/home?authuser=0
 
 
 
