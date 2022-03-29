@@ -11,7 +11,7 @@
 
 
 ## Search Reporting
-- Booth, A. (2006). “Brimful of STARLITE”: toward standards for reporting literature searches. Journal of the Medical Library Association, 94(4), 421. https://pubmed.ncbi.nlm.nih.gov/17082834/
+- Booth, A. (2006). “Brimful of STARLITE”: toward standards for reporting literature searches. *Journal of the Medical Library Association, 94*(4), 421. https://pubmed.ncbi.nlm.nih.gov/17082834/
 - Brooke, B. S., Schwartz, T. A., & Pawlik, T. M. (2021). MOOSE Reporting guidelines for meta-analyses of observational studies. *JAMA Surgery, 156(8), 787–788. https://doi.org/10.1001/jamasurg.2021.0522 
 - Moher, D., Cook, D. J., Eastwood, S., Olkin, I., Rennie, D., & Stroup, D. F. (1999). Improving the quality of reports of meta-analyses of randomised controlled trials: the QUOROM statement. *Lancet, 354*(9193), 1896–1900. https://doi.org/10.1016/s0140-6736(99)04149-5 
 - Sacks, H. S., Berrier, J., Reitman, D., Ancona-Berk, V. A., & Chalmers, T. C. (1987). Meta-analyses of randomized controlled trials. New England Journal of Medicine, 316(8), 450-455.
