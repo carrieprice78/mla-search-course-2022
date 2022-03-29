@@ -1,15 +1,16 @@
 # Suggested Readings
 
-
-## Peer Review
-- Relevo, R., Paynter, R. (2012). *Peer review of search strategies: Methods research report.* AHRQ Publication No. 12-EHC068-EF. Agency for Healthcare Research and Quality. https://www.ncbi.nlm.nih.gov/books/NBK98353/
-
 ## Recall and Precision
 
 - Buckland, M., & Gey, F. (1994). The Relationship between Recall and Precision. *Journal of the American Society for Information Science, 45*(1), 12–19. https://doi.org/10.1002/(SICI)1097-4571(199401)45:1<12::AID-ASI2>3.0.CO;2-L
 - Stevinson, C., & Lawlor, D. A. (2004). Searching multiple databases for systematic reviews: added value or diminishing returns?. *Complementary Therapies in Medicine, 12*(4), 228-232. https://doi.org/10.1016/j.ctim.2004.09.003
 
-## Reporting
+## Search Peer Review
+- Relevo, R., Paynter, R. (2012). *Peer review of search strategies: Methods research report.* AHRQ Publication No. 12-EHC068-EF. Agency for Healthcare Research and Quality. https://www.ncbi.nlm.nih.gov/books/NBK98353/
+
+
+
+## Search Reporting
 - Booth, A. (2006). “Brimful of STARLITE”: toward standards for reporting literature searches. Journal of the Medical Library Association, 94(4), 421. https://pubmed.ncbi.nlm.nih.gov/17082834/
 
 - Brooke, B. S., Schwartz, T. A., & Pawlik, T. M. (2021). MOOSE Reporting guidelines for meta-analyses of observational studies. *JAMA Surgery, 156((8), 787–788. https://doi.org/10.1001/jamasurg.2021.0522 
