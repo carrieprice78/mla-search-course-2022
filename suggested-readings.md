@@ -13,10 +13,11 @@
 
 ## Search Reporting
 - Booth, A. (2006). “Brimful of STARLITE”: toward standards for reporting literature searches. *Journal of the Medical Library Association, 94*(4), 421. https://pubmed.ncbi.nlm.nih.gov/17082834/
-- Brooke, B. S., Schwartz, T. A., & Pawlik, T. M. (2021). MOOSE Reporting guidelines for meta-analyses of observational studies. *JAMA Surgery, 156(8), 787–788. https://doi.org/10.1001/jamasurg.2021.0522 
 - Moher, D., Cook, D. J., Eastwood, S., Olkin, I., Rennie, D., & Stroup, D. F. (1999). Improving the quality of reports of meta-analyses of randomised controlled trials: the QUOROM statement. *Lancet, 354*(9193), 1896–1900. https://doi.org/10.1016/s0140-6736(99)04149-5 
 - Sacks, H. S., Berrier, J., Reitman, D., Ancona-Berk, V. A., & Chalmers, T. C. (1987). Meta-analyses of randomized controlled trials. New England Journal of Medicine, 316(8), 450-455.
 - Sampson, M., McGowan, J., Tetzlaff, J., Cogo, E., & Moher, D. (2008). No consensus exists on search reporting methods for systematic reviews. *Journal of Clinical Epidemiology, 61*(8), 748–754. https://doi.org/10.1016/j.jclinepi.2007.10.009
+- Stroup, D. F., Berlin, J. A., Morton, S. C., Olkin, I., Williamson, G. D., Rennie, D., ... & Thacker, S. B. (2000). Meta-analysis of observational studies in epidemiology: a proposal for reporting. JAMA, 283(15), 2008-2012. https://doi.org/10.1001/jama.283.15.2008 
+
 
 
 
