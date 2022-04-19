@@ -4,7 +4,7 @@
 <li> In your own document, begin to set up your search documentation. Software and format is your choice. Prepare it like you might prepare it for a researcher/team member.</li>
 <li> On the same doucment, create a systematic search for PubMed and for one other database (choices: Embase, Scopus, Web of Science, Cochrane Library, CINAHL, PsycINFO).</li>
   <li> Include, if you wish, a list of follow-up questions you may have for the researcher that were generated during the search process.</li>
-  <li> Submit to the Slack channel systematic-search-activity (link)</li>
+  <li> Submit to the Slack channel <a href="https://srsearching.slack.com/archives/C0366P1UXMH">systematic search activity</a>.</li>
   </ol>
   
   <hr/>
