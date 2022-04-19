@@ -1,9 +1,9 @@
 # Drug Search Activity
 
 <ol>
-  <li> Choose a drug from the list below.</li>
-  <li> In a document, narrate how you'd get started creating a search for this particular drug.</li>
-  <li> Make a list of any follow-up questions you'd have for the research team.</li>
+  <li> Choose a drug or substance from the list below.</li>
+  <li> In a document, narrate how you'd get started creating a search for this particular drug or substance.</li>
+  <li> Make a list of any follow-up questions you'd have for the research team. Did you find anything unusual? Does it map to something else? Is there previous indexing? Are there narrower subject headings?</li>
   <li> Submit to the Slack channel #drug-search-activity. (https://srsearching.slack.com/archives/C036WD82JRE).</li>
 </ol>
 <hr/>
