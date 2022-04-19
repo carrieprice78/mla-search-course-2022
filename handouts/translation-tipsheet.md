@@ -1,4 +1,7 @@
 
+
+The table below provides examples of syntax to find and replace to translate your search from one database or platform to another.
+
 | From  | To | Find | Replace |
 | ---- | -- | ---- | ------- |
 | PubMed | Embase.com  | [tw] | :ti,ab,kw *or* :ti,ab,kf |
