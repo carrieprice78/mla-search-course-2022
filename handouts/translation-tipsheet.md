@@ -1,4 +1,4 @@
-
+# Translate with Find and Replace
 
 The table below provides examples of syntax to find and replace to translate your search from one database or platform to another.
 
