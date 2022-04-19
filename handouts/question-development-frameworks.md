@@ -2,8 +2,7 @@
 
 ## CoCoPop
 **Condition, Context, Population**
-* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
-
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  
 
 ## ECLIPSE
 **Expectation, Client Group, Location, Impact, Professionals, Service**
@@ -11,12 +10,10 @@
 
 ## PCC
 **Population, Concept, Context**
-* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
-
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  
 ## PEO
 **Population, Exposure of Interest, Outcome or Response**
-* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
-               
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  
 ## PICO
 **Population or Problem, Intervention or Exposure, Comparison or Control, Outcome**
 * Heneghan, C., & Badenoch, D. (2006). Evidence-based medicine toolkit. London: BMJ Books.
@@ -31,11 +28,10 @@
 
 ## PIRD
 **Population, Index Test, Reference Test, Diagnosis of Interest**
-* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
-      
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global. 
 ## PICo
 **Population, Interest, Context**
-* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  https://doi.org/10.46658/JBIMES-20-01
+* Aromataris E, Munn Z (Editors). JBI Manual for Evidence Synthesis. JBI, 2020. Available from https://synthesismanual.jbi.global.  
 
 ## SPIDER
 **Sample, Phenomenon of Interest, Design, Evaluation, Research Type**
