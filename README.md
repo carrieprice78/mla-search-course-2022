@@ -1,5 +1,5 @@
-# mla-search-course-2022
-Suggested and required readings, links, and more, for the Medical Library Association's CE100 Essential Searching Skills for Librarians on Systematic Review Teams.
+# Essential Searching Skills for Librarians on Systematic Review Teams
+Required Readings, additional references, activities, links, and more, for the Medical Library Association's CE100 Essential Searching Skills for Librarians on Systematic Review Teams.
 
 
 ## Activities
