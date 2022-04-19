@@ -6,7 +6,7 @@
 
 ## ECLIPSE
 **Expectation, Client Group, Location, Impact, Professionals, Service**
-* Wildridge, V., & Bell, L. (2002). How CLIP became ECLIPSE: a mnemonic to assist in searching for health policy/management information. Health Information & Libraries Journal, 19(2), 113-115. https://doi.org/10.1046/j.1471-1842.2002.00378.x
+* Wildridge, V., & Bell, L. (2002). How CLIP became ECLIPSE: a mnemonic to assist in searching for health policy/management information. *Health Information & Libraries Journal, 19*(2), 113-115. https://doi.org/10.1046/j.1471-1842.2002.00378.x
 
 ## PCC
 **Population, Concept, Context**
@@ -20,11 +20,11 @@
 
 ## PICOS
 **Population or Problem, Intervention or Exposure, Comparison or Control, Outcome, Study Type**
-* Methley, A. M., Campbell, S., Chew-Graham, C., McNally, R., & Cheraghi-Sohi, S. (2014). PICO, PICOS and SPIDER: a comparison study of specificity and sensitivity in three search tools for qualitative systematic reviews. BMC health services research, 14, 579. https://doi.org/10.1186/s12913-014-0579-0
+* Methley, A. M., Campbell, S., Chew-Graham, C., McNally, R., & Cheraghi-Sohi, S. (2014). PICO, PICOS and SPIDER: a comparison study of specificity and sensitivity in three search tools for qualitative systematic reviews. *BMC Health Services research, 14*. https://doi.org/10.1186/s12913-014-0579-0
 
 ## PICOT
 **Population or Problem, Intervention or Exposure, Comparison or Control, Outcome, Time**
-* Richardson, W. S., Wilson, M. C., Nishikawa, J., & Hayward, R. S. (1995). The well-built clinical question: A key to evidence-based decisions. ACP journal club, 123(3), A12-A12.
+* Richardson, W. S., Wilson, M. C., Nishikawa, J., & Hayward, R. S. (1995). The well-built clinical question: A key to evidence-based decisions. *ACP Journal Club, 123*(3), A12-A12.
 
 ## PIRD
 **Population, Index Test, Reference Test, Diagnosis of Interest**
@@ -39,4 +39,4 @@
 
 ## SPICE
 **Setting, Perspective, Intervention, Comparison, Evaluation**
-* Cleyle, S., & Booth, A. (2006). Clear and present questions: formulating questions for evidence based practice. Library hi tech. https://doi.org/10.1108/07378830610692127        
+* Cleyle, S., & Booth, A. (2006). Clear and present questions: formulating questions for evidence based practice. *Library Hi Tech.* https://doi.org/10.1108/07378830610692127        
