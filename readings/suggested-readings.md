@@ -1,6 +1,6 @@
 # Additional References
 
-You are not expected to have read and understood all the readings listed below. They are here for you to use and reference over time.
+You are not expected to have read and understood all the readings listed below. They are here for you to use and reference as needed.
 
 ## Recall and Precision
 
