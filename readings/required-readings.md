@@ -8,7 +8,7 @@
 
 - National Academy of Sciences. (2011). Chapter 3: Standards for finding and assessing individual studies. In *Finding what works in health care: Standards for systematic reviews.* Committee on Standards for Systematic Reviews of Comparative Effectiveness Research, Eden, J., Levit, L., Berg, A., Morton, S., (Eds.) Washington (DC): National Academies Press (US); 2011. https://www.ncbi.nlm.nih.gov/books/NBK209517/ 
 
-- Tufanaru, C., Munn, Z., Aromataris, E., Campbell, J., Hopp, L. (2020). Chapter 3: Systematic reviews of effectiveness. In Aromataris, E., Munn, Z. (Eds.) *JBI Manual for Evidence Synthesis*.  https://jbi-global-wiki.refined.site/space/MANUAL/3283910685/Chapter+3%3A+Systematic+reviews+of+effectiveness
+- Tufanaru, C., Munn, Z., Aromataris, E., Campbell, J., Hopp, L. (2020). Chapter 3: Systematic reviews of effectiveness. In Aromataris, E., Munn, Z. (Eds.) *JBI Manual for Evidence Synthesis*.  https://jbi-global-wiki.refined.site/space/MANUAL/4688621/Chapter+3%3A+Systematic+reviews+of+effectiveness
 
 ## Search Peer Review
 
