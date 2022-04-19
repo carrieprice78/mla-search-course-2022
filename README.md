@@ -8,7 +8,7 @@ Required readings, additional references, activities, links, and more, for the M
 - [Systematic Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/systematic-search-activity.md)
 
 
-## Handouts
+## Digital Handouts
 
 - [Database Documentation](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/database-documentation-handout.md)
 - [PubMed Tools](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/pubmed-tools.md)
