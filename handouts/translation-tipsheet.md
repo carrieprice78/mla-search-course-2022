@@ -1,7 +1,7 @@
 
 | From  | To | Find | Replace |
 | ---- | -- | ---- | ------- |
-| PubMed | Embase.com  | [tw] | :ti,ab,kw or :ti,ab,kf |
+| PubMed | Embase.com  | [tw] | :ti,ab,kw *or* :ti,ab,kf |
 | PubMed | Embase.com  | [tiab] | :ti,ab or :ti,ab |
 | PubMed | Embase.com  | [mesh] | /exp |
 | PubMed | Embase.com  | [mesh:noexp] | /de |
