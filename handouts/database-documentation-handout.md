@@ -4,7 +4,7 @@ The CINAHL Plus with Full Text [Database Help](https://support.ebsco.com/help/?i
 
 # Ovid MEDLINE
 
-Ovid MEDLINE [help](https://ospguides.ovid.com/OSPguides/medline.htm#search) lists fields.
+Ovid MEDLINE [Help](https://ospguides.ovid.com/OSPguides/medline.htm#search) lists fields.
 
 # PubMed 
 
