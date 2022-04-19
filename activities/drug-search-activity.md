@@ -4,7 +4,7 @@
   <li> Choose a drug from the list below.</li>
   <li> In a document, narrate how you'd get started creating a search for this particular drug.</li>
   <li> Make a list of any follow-up questions you'd have for the research team.</li>
-  <li> Submit to the Slack channel #drug-search-activity.</li>
+  <li> Submit to the Slack channel [#drug-search-activity](https://srsearching.slack.com/archives/C036WD82JRE).</li>
 </ol>
 <hr/>
 <ul>
