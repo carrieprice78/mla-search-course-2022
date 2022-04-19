@@ -15,6 +15,9 @@ Suggested and required readings, links, and more, for the Medical Library Associ
 - [Question Development Frameworks](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/question-development-frameworks.md)
 - [Search Filters](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/search-filters.md)
 - [Search Tools](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/search-tools.md)
+- [Topic-Focused Databases](link)
+- [Translation Tipsheet](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/translation-tipsheet.md)
+
 
 ## Readings
 - [Required Readings](https://github.com/carrieprice78/mla-search-course-2022/blob/main/readings/required-readings.md)
