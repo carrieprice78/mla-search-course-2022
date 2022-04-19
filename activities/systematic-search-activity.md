@@ -11,19 +11,19 @@
   
   # Sample Topics
   
-  ## Effectiveness
+  ## Topics of Effectiveness
   <ul>
   <li>What is the efficacy and safety of curcumin therapy in ulcerative colitis?</li>
   <li>What can neuroimaging tell us about the prevalence of anxiety in Parkinson Disease?</li>
   </ul>
   
-  ## Etiology/Risk
+  ## Topics of Etiology/Risk
   
   <ul>
   <li>What are the risk factors for spontaneous coronary artery dissection?</li>
   </ul>
   
-  ## Incidence/Prevalence
+  ## Topics of Incidence/Prevalence
   
   <ul>
   <li> What is the incidence and prevalence of steroid-associated aphasia?</li>
