@@ -13,9 +13,11 @@
 | PubMed | MEDLINE (Ovid) | [tw] | .mp. |
 | PubMed | Embase (Ovid) | [tw] | .mp. |
 | Any | Scopus | ( | TITLE-ABS-KEY( |
-| Any | Web of Science | ( | TS=( |
+| Any | Scopus, no truncation | ") | }) |
+| Any | Scopus, no truncation | (" | ({ |
 | Any | Scopus, no truncation | " OR " | } OR { |
 | Scopus | Web of Science | TITLE-ABS-KEY( | TS=( |
+| Any | Web of Science | ( | TS=( |
 
 
 
