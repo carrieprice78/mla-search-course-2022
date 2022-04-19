@@ -1,5 +1,6 @@
 # Suggested Readings
 
+You are by no means expected to have read and understood all the readings listed below. They are here for you to use and reference.
 
 ## Recall and Precision
 
