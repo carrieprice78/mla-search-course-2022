@@ -12,6 +12,8 @@
 | PubMed | Cochrane Library  | term [mesh:noexp] | [mh ^term]|
 | PubMed | MEDLINE (Ovid) | [tw] | .mp. |
 | PubMed | Embase (Ovid) | [tw] | .mp. |
+| Any | Scopus | ( | TITLE-ABS-KEY( |
+| Any | Web of Science | ( | TS=( |
 | Any | Scopus, no truncation | " OR " | } OR { |
 | Scopus | Web of Science | TITLE-ABS-KEY( | TS=( |
 
