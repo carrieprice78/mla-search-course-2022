@@ -1,6 +1,6 @@
 # Systematic Search Activity
 <ol>
-  <li> Choose a topic from the sample topics below.</li>
+  <li> Choose a topic from the [sample topics](#sample-topics) below.</li>
 <li> In your own document, begin to set up your search documentation. Software and format is your choice. Prepare it like you might prepare it for a researcher/team member.</li>
 <li> On the same doucment, create a systematic search for PubMed and for one other database (choices: Embase, Scopus, Web of Science, Cochrane Library, CINAHL, PsycINFO).</li>
   <li> Include, if you wish, a list of follow-up questions you may have for the researcher that were generated during the search process.</li>
