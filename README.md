@@ -5,7 +5,7 @@ Suggested and required readings, links, and more, for the Medical Library Associ
 ## Activities
 
 - [Drug Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/drug-search-activity.md)
-- [Systematic Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/drug-search-activity.md)
+- [Systematic Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/systematic-search-activity.md)
 
 
 ## Handouts
