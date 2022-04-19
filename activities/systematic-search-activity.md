@@ -7,23 +7,23 @@
   <li> Submit to the Slack channel <a href="https://srsearching.slack.com/archives/C0366P1UXMH">systematic search activity</a>.</li>
   </ol>
   
-  <hr/>
+
   
-  # Sample Topics
+  ## Sample Topics
   
-  ## Topics of Effectiveness
+  ### Topics of Effectiveness
   <ul>
   <li>What is the efficacy and safety of curcumin therapy in ulcerative colitis?</li>
   <li>What can neuroimaging tell us about the prevalence of anxiety in Parkinson Disease?</li>
   </ul>
   
-  ## Topics of Etiology/Risk
+  ### Topics of Etiology/Risk
   
   <ul>
   <li>What are the risk factors for spontaneous coronary artery dissection?</li>
   </ul>
   
-  ## Topics of Incidence/Prevalence
+  ### Topics of Incidence/Prevalence
   
   <ul>
   <li> What is the incidence and prevalence of steroid-associated aphasia?</li>
