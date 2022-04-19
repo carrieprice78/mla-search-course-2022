@@ -8,7 +8,7 @@ You are not expected to have read and understood all the readings listed below. 
 - Stevinson, C., & Lawlor, D. A. (2004). Searching multiple databases for systematic reviews: added value or diminishing returns? *Complementary Therapies in Medicine, 12*(4), 228-232. https://doi.org/10.1016/j.ctim.2004.09.003
 
 ## Search Peer Review
-- Franco, J. V. A., Garrote, V. L., Escobar Liquitay, C. M., & Vietto, V. (2018). Identification of problems in search strategies in C ochrane R eviews. Research Synthesis Mmethods, 9(3), 408-416. https://doi.org/10.1002/jrsm.1302
+- Franco, J. V. A., Garrote, V. L., Escobar Liquitay, C. M., & Vietto, V. (2018). Identification of problems in search strategies in Cochrane Reviews. *Research Synthesis Mmethods, 9*(3), 408-416. https://doi.org/10.1002/jrsm.1302
 - Lefebvre, C., & Duffy, S. (2021). Peer review of searches for studies for health technology assessments, systematic reviews, and other evidence syntheses. *International Journal of Technology Assessment in Health Care, 37*(1). https://dx.doi.org/10.1017/s0266462321000210
 - McGowan J., Sampson M., Salwedel D.M., Cogo E., Foerster V., Lefebvre C. (2016). PRESS – Peer Review of Electronic Search Strategies: 2015 Guideline Explanation and Elaboration. https://www.cadth.ca/sites/default/files/pdf/CP0015_PRESS_Update_Report_2016.pdf
 - Relevo, R., Paynter, R. (2012). *Peer review of search strategies: Methods research report.* AHRQ Publication No. 12-EHC068-EF. Agency for Healthcare Research and Quality. https://www.ncbi.nlm.nih.gov/books/NBK98353/
