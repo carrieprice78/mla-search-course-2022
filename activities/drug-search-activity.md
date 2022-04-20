@@ -4,7 +4,7 @@
   <li> Choose a <a href="#drugs-and-substances-list">drug or substance from the list below</a>.</li>
   <li> In a document, narrate how you'd get started creating a search for this particular drug or substance.</li>
   <li> Make a list of any follow-up questions you'd have for the research team. Did you find anything unusual? Does it map to something else? Is there previous indexing? Are there narrower subject headings?</li>
-  <li> Submit to the Slack channel <a href="https://srsearching.slack.com/archives/C036WD82JRE">drug search activity</a>.</li>
+  <li> Submit to the Slack channel <a href="https://srsearching.slack.com/archives/C036WD82JRE">drug search activity</a> by May 31.</li>
 </ol>
 
 
