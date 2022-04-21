@@ -5,6 +5,7 @@ You are not expected to have read and understood all the readings listed below. 
 ## Recall and Precision
 
 - Buckland, M., & Gey, F. (1994). The Relationship between Recall and Precision. *Journal of the American Society for Information Science, 45*(1), 12–19. https://asistdl.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-4571(199401)45:1%3C12::AID-ASI2%3E3.0.CO;2-L 
+- Sampson, M., Tetzlaff, J., & Urquhart, C. (2011). Precision of healthcare systematic review searches in a cross-sectional sample. *Research Synthesis Methods, 2*(2), 119–125. https://doi.org/10.1002/jrsm.42
 - Stevinson, C., & Lawlor, D. A. (2004). Searching multiple databases for systematic reviews: added value or diminishing returns? *Complementary Therapies in Medicine, 12*(4), 228-232. https://doi.org/10.1016/j.ctim.2004.09.003
 
 ## Search Peer Review
