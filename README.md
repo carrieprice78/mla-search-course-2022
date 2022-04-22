@@ -15,7 +15,7 @@ Required readings, additional references, activities, links, and more, for the M
 - [Question Development Frameworks](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/question-development-frameworks.md)
 - [Search Filters](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/search-filters.md)
 - [Search Tools](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/search-tools.md)
-- [Topic-Focused Databases](link)
+- [Topic-Focused Databases](https://drive.google.com/file/d/1AUwQeKGaHqbiPggyJlaHg-RRZdGOeKcx/view?usp=sharing)
 - [Translation Tipsheet](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/translation-tipsheet.md)
 
 
