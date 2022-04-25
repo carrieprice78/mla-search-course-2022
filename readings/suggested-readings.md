@@ -35,7 +35,7 @@ You are not expected to have read and understood all the readings listed below. 
 
 ## Authorship
 
-- ICMJE. (2022). Defining the roles of authors and contributors. International Committee of Medical Journal Editors. https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html
+- ICMJE. (2022). *Defining the roles of authors and contributors.* International Committee of Medical Journal Editors. https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html
 
 
 
