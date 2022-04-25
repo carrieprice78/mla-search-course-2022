@@ -1,4 +1,4 @@
-# CE100 Essential Searching Skills for Librarians on Systematic Review Teams Syllabus
+# CE100 Essential Searching Skills for Librarians on Systematic Review Teams - Syllabus
 
 ## Instructors
 
