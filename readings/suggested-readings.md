@@ -31,6 +31,7 @@ You are not expected to have read and understood all the readings listed below. 
 - Ross-White A. (2021). Search is a verb: systematic review searching as invisible labor. *Journal of the Medical Library Association, 109*(3), 505–506. https://doi.org/10.5195/jmla.2021.1226
 
 ## Guidance
+- Borah, R., Brown, A. W., Capers, P. L., & Kaiser, K. A. (2017). Analysis of the time and workers needed to conduct systematic reviews of medical interventions using data from the PROSPERO registry. *BMJ Open, 7*(2). https://doi.org/10.1136/bmjopen-2016-012545
 - Glanville, J. Isojarvi, J. et al. (Last updated 2020 March 7). Summarized research in information retrieval for HTA. https://sites.google.com/york.ac.uk/sureinfo/home?authuser=0
 
 ## Authorship
