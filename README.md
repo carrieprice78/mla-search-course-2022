@@ -11,8 +11,8 @@
 * Conduct preliminary searches to identify key articles and previous publications
 * Select databases and other resources appropriate to a research question
 * Describe and document planned searches and methods
-* Build an extensive, effective, systematic, and replicable search strategy for each resource appropriate to the research question
-* Review search strategies under development using the PRESS (Peer Review of Electronic Search Strategies) rubric
+* Build an extensive strategy for each resource appropriate to the research question
+* Review search strategies under development
 
 ## Description
 
