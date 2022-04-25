@@ -44,6 +44,8 @@ While these activities will be discussed and started during class, students will
 
 ## Digital Handouts
 
+These handouts provide further information and links to PubMed tools, database information, published search tilers, and more.
+
 - [Database Documentation](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/database-documentation-handout.md)
 - [PubMed Tools](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/pubmed-tools.md)
 - [Question Development Frameworks](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/question-development-frameworks.md)
