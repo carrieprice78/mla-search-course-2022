@@ -4,7 +4,7 @@ You are not expected to have read and understood all the readings listed below. 
 
 ## Recall and Precision
 
-- Buckland, M., & Gey, F. (1994). The Relationship between Recall and Precision. *Journal of the American Society for Information Science, 45*(1), 12–19. https://asistdl.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-4571(199401)45:1%3C12::AID-ASI2%3E3.0.CO;2-L 
+- Buckland, M., & Gey, F. (1994). The relationship between recall and precision. *Journal of the American Society for Information Science, 45*(1), 12–19. https://asistdl.onlinelibrary.wiley.com/doi/10.1002/(SICI)1097-4571(199401)45:1%3C12::AID-ASI2%3E3.0.CO;2-L 
 - Sampson, M., Tetzlaff, J., & Urquhart, C. (2011). Precision of healthcare systematic review searches in a cross-sectional sample. *Research Synthesis Methods, 2*(2), 119–125. https://doi.org/10.1002/jrsm.42
 - Stevinson, C., & Lawlor, D. A. (2004). Searching multiple databases for systematic reviews: added value or diminishing returns? *Complementary Therapies in Medicine, 12*(4), 228-232. https://doi.org/10.1016/j.ctim.2004.09.003
 
@@ -25,8 +25,6 @@ You are not expected to have read and understood all the readings listed below. 
 - Stroup, D. F., Berlin, J. A., Morton, S. C., Olkin, I., Williamson, G. D., Rennie, D., ... & Thacker, S. B. (2000). Meta-analysis of observational studies in epidemiology: a proposal for reporting. JAMA, 283(15), 2008-2012. https://doi.org/10.1001/jama.283.15.2008 
 
 
-
-
 ## Searching
 - Cochrane. (2020). Low and middle income country (LMIC) filter. Cochrane CIS Support Digest, 61. https://mailchi.mp/ebb18ffeece7/cochrane-information-specialist-support-team-digest-2864754#EPOC%20LMICs%20Filter
 - Glanville, J., Kotas, E., Featherstone, R., & Dooley, G. (2020). Which are the most sensitive search filters to identify randomized controlled trials in MEDLINE?. *Journal of the Medical Library Association: JMLA, 108*(4), 556–563. https://doi.org/10.5195/jmla.2020.912 
@@ -35,6 +33,9 @@ You are not expected to have read and understood all the readings listed below. 
 ## Guidance
 - Glanville, J. Isojarvi, J. et al. (Last updated 2020 March 7). Summarized research in information retrieval for HTA. https://sites.google.com/york.ac.uk/sureinfo/home?authuser=0
 
+## Authorship
+
+- ICMJE. (2022). Defining the roles of authors and contributors. International Committee of Medical Journal Editors. https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html
 
 
 
