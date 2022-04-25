@@ -37,7 +37,7 @@ You’ll also learn how to conduct a reference interview to properly define a to
 
 ## Activities
 
-While these activities will be discussed and started during class, students will be given until May 31 to complete all activities.
+While these activities will be discussed and started during class, students will be given until May 31 to complete work.
 
 - [Drug Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/drug-search-activity.md)
 - [Systematic Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/systematic-search-activity.md)
