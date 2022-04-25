@@ -10,9 +10,9 @@
 * Interview researchers to define the key concepts of a research question
 * Conduct preliminary searches to identify key articles and previous publications
 * Select databases and other resources appropriate to a research question
-* Describe and document planned searches and methods
 * Build an extensive strategy for each resource appropriate to the research question
 * Review search strategies under development
+* Describe and document searches and methods
 
 ## Description
 
@@ -37,7 +37,7 @@ You’ll also learn how to conduct a reference interview to properly define a to
 
 ## Activities
 
-While these activities will be discussed and started during class, *students will be given until May 31 to complete work*.
+While these activities will be discussed and started during class, students will be given until May 31 to complete work.
 
 - [Drug Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/drug-search-activity.md)
 - [Systematic Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/systematic-search-activity.md)
