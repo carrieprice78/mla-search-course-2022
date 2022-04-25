@@ -31,6 +31,7 @@ You are not expected to have read and understood all the readings listed below. 
 
 ## Searching
 - Cochrane. (2020). Low and middle income country (LMIC) filter. Cochrane CIS Support Digest, 61. https://mailchi.mp/ebb18ffeece7/cochrane-information-specialist-support-team-digest-2864754#EPOC%20LMICs%20Filter
+- Glanville, J. M., Duffy, S., McCool, R., & Varley, D. (2014). Searching ClinicalTrials.gov and the International Clinical Trials Registry Platform to inform systematic reviews: what are the optimal search approaches? *Journal of the Medical Library Association 102*(3), 177–183. https://doi.org/10.3163/1536-5050.102.3.007
 - Glanville, J., Kotas, E., Featherstone, R., & Dooley, G. (2020). Which are the most sensitive search filters to identify randomized controlled trials in MEDLINE?. *Journal of the Medical Library Association: JMLA, 108*(4), 556–563. https://doi.org/10.5195/jmla.2020.912 
 - Ross-White A. (2021). Search is a verb: systematic review searching as invisible labor. *Journal of the Medical Library Association, 109*(3), 505–506. https://doi.org/10.5195/jmla.2021.1226
 
