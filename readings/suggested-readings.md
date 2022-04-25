@@ -30,6 +30,7 @@ You are not expected to have read and understood all the readings listed below. 
 ## Searching
 - Cochrane. (2020). Low and middle income country (LMIC) filter. Cochrane CIS Support Digest, 61. https://mailchi.mp/ebb18ffeece7/cochrane-information-specialist-support-team-digest-2864754#EPOC%20LMICs%20Filter
 - Glanville, J., Kotas, E., Featherstone, R., & Dooley, G. (2020). Which are the most sensitive search filters to identify randomized controlled trials in MEDLINE?. *Journal of the Medical Library Association: JMLA, 108*(4), 556–563. https://doi.org/10.5195/jmla.2020.912 
+- Ross-White A. (2021). Search is a verb: systematic review searching as invisible labor. Journal of the Medical Library Association : JMLA, 109(3), 505–506. https://doi.org/10.5195/jmla.2021.1226
 
 ## Guidance
 - Glanville, J. Isojarvi, J. et al. (Last updated 2020 March 7). Summarized research in information retrieval for HTA. https://sites.google.com/york.ac.uk/sureinfo/home?authuser=0
