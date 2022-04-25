@@ -16,4 +16,4 @@
 
 ## Search Reporting
 
-- Rethlefsen, M. L., Kirtley, S., Waffenschmidt, S., Ayala, A. P., Moher, D., Page, M. J., Koffel, J. B., & PRISMA-S Group (2021). PRISMA-S: an extension to the PRISMA statement for reporting literature searches in systematic reviews. *Journal of the Medical Library Association: JMLA, 109*(2), 174–200. https://doi.org/10.5195/jmla.2021.962 
+- Rethlefsen, M. L., Kirtley, S., Waffenschmidt, S., Ayala, A. P., Moher, D., Page, M. J., Koffel, J. B., & PRISMA-S Group (2021). PRISMA-S: an extension to the PRISMA statement for reporting literature searches in systematic reviews. *Journal of the Medical Library Association, 109*(2), 174–200. https://doi.org/10.5195/jmla.2021.962 
