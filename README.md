@@ -5,7 +5,7 @@
 - Carrie Price, Health Professions Librarian, Albert S. Cook Library, Towson University, Towson, MD
 - David Farris, Research Services Librarian, Research Medical Library, University of Texas MD Anderson Cancer Center, Houston, TX
 - Rachael Lebo, Clinical Services Librarian, Wegner Health Sciences Library, University of South Dakota, Sioux Falls, SD
-- 
+
 ## Learning Objectives
 * Interview researchers to define the key concepts of a research question
 * Conduct preliminary searches to identify key articles and previous publications
