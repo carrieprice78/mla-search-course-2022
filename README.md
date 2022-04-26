@@ -28,12 +28,14 @@ You’ll also learn how to conduct a reference interview to properly define a to
 
 ## Course Schedule
 
-| Module   | Title | Lead Instructor |
-| ----------- | ----------- | -------|
-| 1   | The Reference Interview | Rachael Lebo |
-| 2 | The Search      | Carrie Price |
-| 3 | Peer Review  of the Search | David Farris |
-| 4 | Search Reporting | Carrie Price |
+| Module   | Title | Lead Instructor | Timeframe |
+| ----------- | ----------- | -------| -------|
+| 1   | The Reference Interview | Rachael Lebo | 30 minutes |
+| 2 | The Search      | Carrie Price | 2.5 hours |
+| 3 | Peer Review  of the Search | David Farris | 30 minutes |
+| 4 | Search Reporting | Carrie Price | 30 minutes |
+
+There will be two breaks and time to work on activities in class.
 
 ## Activities
 
