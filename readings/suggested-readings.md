@@ -19,6 +19,7 @@ You are not expected to have read and understood all the readings listed below. 
 - Relevo, R., Paynter, R. (2012). *Peer review of search strategies: Methods research report.* AHRQ Publication No. 12-EHC068-EF. Agency for Healthcare Research and Quality. https://www.ncbi.nlm.nih.gov/books/NBK98353/
 - Sampson, M., McGowan, J., Cogo, E., Grimshaw, J., Moher, D., & Lefebvre, C. (2009). An evidence-based practice guideline for the peer review of electronic search strategies. *Journal of Clinical Epidemiology, 62*(9), 944-952. https://doi.org/10.1016/j.jclinepi.2008.10.012
 - Sampson, M., & McGowan, J. (2006). Errors in search strategies were identified by type and frequency. *Journal of Clinical Epidemiology, 59*(10). https://doi.org/10.1016/j.jclinepi.2006.01.007
+- Shema, H. (2014, Apr). The birth of modern peer review. *Scienfitic American.* https://blogs.scientificamerican.com/information-culture/the-birth-of-modern-peer-review/
 
 
 ## Search Reporting
