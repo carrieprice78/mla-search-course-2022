@@ -3,7 +3,7 @@
 You are not expected to have read and understood all the readings listed below. They are here for you to use and reference as needed.
 
 ## Authorship
-
+- COPE. (2022). *Authorship and contributorship.* Committee on Publication Ethics. https://publicationethics.org/authorship
 - ICMJE. (2022). *Defining the roles of authors and contributors.* International Committee of Medical Journal Editors. https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of-authors-and-contributors.html
 
 ## Recall and Precision
