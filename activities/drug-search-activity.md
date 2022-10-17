@@ -1,4 +1,7 @@
-# Drug Search Activity
+
+# This activity is NOT for the October 2022 cohort.
+
+## Drug Search Activity
 
 <ol>
   <li> Choose a <a href="#drugs-and-substances-list">drug or substance from the list below</a>.</li>
