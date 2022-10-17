@@ -26,23 +26,6 @@ You’ll also learn how to conduct a reference interview to properly define a to
 - [Required Readings](https://github.com/carrieprice78/mla-search-course-2022/blob/main/readings/required-readings.md)
 - [Additional References](https://github.com/carrieprice78/mla-search-course-2022/blob/main/readings/suggested-readings.md)
 
-## Course Schedule
-
-| Module   | Title | Lead Instructor | Timeframe |
-| ----------- | ----------- | -------| -------|
-| 1   | The Reference Interview | Rachael Lebo | 30 minutes |
-| 2 | The Search      | Carrie Price | 2.5 hours |
-| 3 | Peer Review  of the Search | David Farris | 30 minutes |
-| 4 | Search Reporting | Carrie Price | 30 minutes |
-
-There will be two breaks and time to work on activities in class.
-
-## Activities
-
-While these activities will be discussed and started during class, students will be given until May 31 to complete work.
-
-- [Drug Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/drug-search-activity.md)
-- [Systematic Search Activity](https://github.com/carrieprice78/mla-search-course-2022/blob/main/activities/systematic-search-activity.md)
 
 ## Digital Handouts
 
