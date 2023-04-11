@@ -1,12 +1,13 @@
 # CE100 Essential Searching Skills for Librarians on Systematic Review Teams - Syllabus
+## April 2023 Cohort
 
-## Instructors
+### Instructors
 
 - Carrie Price, Research Impact and Health Professions Librarian, Albert S. Cook Library, Towson University, Towson, MD
 - David Farris, Research Services Librarian, Research Medical Library, University of Texas MD Anderson Cancer Center, Houston, TX
 - Rachael Lebo, Clinical Services Librarian, Wegner Health Sciences Library, University of South Dakota, Sioux Falls, SD
 
-## Learning Objectives
+### Learning Objectives
 * Interview researchers to define the key concepts of a research question
 * Conduct preliminary searches to identify key articles and previous publications
 * Select databases and other resources appropriate to a research question
@@ -14,7 +15,7 @@
 * Review search strategies under development
 * Describe and document searches and methods
 
-## Description
+### Description
 
 The course will take you through the systematic review searching process, from confirming the need for a review and identifying appropriate databases to creating search strategies and documenting and reporting searches using PRISMA-S. PubMed is the primary database used in the course. 
 
@@ -22,12 +23,12 @@ The heart of the course is developing an extensive, effective, systematic, trans
 
 You’ll also learn how to conduct a reference interview to properly define a topic and how to translate a topic into effective search concepts. And you’ll be able to participate in the search peer review process that is now elemental to the searching community of practice.
 
-## Readings
+### Readings
 - [Required Readings](https://github.com/carrieprice78/mla-search-course-2022/blob/main/readings/required-readings.md)
 - [Additional References](https://github.com/carrieprice78/mla-search-course-2022/blob/main/readings/suggested-readings.md)
 
 
-## Digital Handouts
+### Digital Handouts
 
 These handouts provide further information and links to PubMed tools, database information, published search filters, question development frameworks, and more.
 
