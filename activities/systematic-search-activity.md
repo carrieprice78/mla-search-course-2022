@@ -13,7 +13,7 @@ Build a search for Neuroimaging for PubMed.
 
 ## Group Three
 
-Build a search for anxiety for PubMed.
+Build a search for Anxiety for PubMed.
 
 ### All Groups
 
