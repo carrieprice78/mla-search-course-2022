@@ -1,5 +1,5 @@
 # CE100 Essential Searching Skills for Librarians on Systematic Review Teams - Syllabus
-## April 2023 Cohort
+
 
 ### Instructors
 
