@@ -2,6 +2,9 @@
 
 The CINAHL Plus with Full Text [Database Help](https://support.ebsco.com/help/?int=ehost&lang=en&feature_id=Databases&TOC_ID=Always&SI=0&BU=0&GU=1&PS=0&ver=live&dbs=rzhjnh,rzh#C) provides assistance for searchable fields.
 
+# Embase (Embase.com)
+
+Embase [Support Center](https://service.elsevier.com/app/home/supporthub/embase/)
 # Ovid MEDLINE
 
 Ovid MEDLINE [Help](https://ospguides.ovid.com/OSPguides/medline.htm#search) lists fields.
