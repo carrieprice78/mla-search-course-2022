@@ -1,5 +1,6 @@
 # Search Filters
 
+- [Canada's Drug Agency (formerly CADTH)](https://searchfilters.cda-amc.ca/)
 - [Cochrane Handbook Search Filters](https://training.cochrane.org/technical-supplement-chapter-4-searching-and-selecting-studies-v63)
 - [Cochrane Low and Middle Income Countries Filters](https://epoc.cochrane.org/lmic-filters) 
 - [Flinders Filters](https://www.flinders.edu.au/research-centre-palliative-care-death-dying/partnerships-and-projects/flinders-filters)
@@ -7,3 +8,4 @@
 - [ISSG at InterTASC Search Filters Resource](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home)
 - [SIGN Filters from Healthcare Improvementt Scotland](https://www.sign.ac.uk/what-we-do/methodology/search-filters/)
 - [Search Filters for Various Databases from the University of Texas](https://libguides.sph.uth.tmc.edu/search_filters)
+- [University of Alberta Search Filters](https://guides.library.ualberta.ca/health-sciences-search-filters)
