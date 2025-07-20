@@ -17,4 +17,4 @@ Build a search for Anxiety for PubMed.
 
 ### All Groups
 
-Keep a list of items/questions that would need further clarification from the research team.
+Keep a list of items/questions that would need further clarification from the research team. Build your search concept in PubMed. You'll have time in Week 2 to come to a consensus as a team.
