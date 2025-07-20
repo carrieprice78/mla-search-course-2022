@@ -15,4 +15,8 @@ PubMed's [Help](https://pubmed.ncbi.nlm.nih.gov/help/#search-tags) displays a li
 
 2025's [MeSH Highlights](https://www.nlm.nih.gov/oet/ed/mesh/2025/mesh_highlights.html)
 
+# Web of Science
+
+Web of Science [Search Rules](https://webofscience.help.clarivate.com/en-us/Content/search-rules.htm)
+
 
