@@ -32,7 +32,9 @@ You’ll also learn how to conduct a reference interview to properly define a to
 
 These handouts provide further information and links to PubMed tools, database information, published search filters, question development frameworks, and more.
 
+- [Database Chart](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/20250721%20-%20database%20focus%20chart.pdf)
 - [Database Documentation](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/database-documentation-handout.md)
+- [Database Platform Syntax](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/Database%20Platform%20Syntax.pdf)
 - [PubMed Tools](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/pubmed-tools.md)
 - [Question Development Frameworks](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/question-development-frameworks.md)
 - [Search Filters](https://github.com/carrieprice78/mla-search-course-2022/blob/main/handouts/search-filters.md)
